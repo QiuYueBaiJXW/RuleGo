@@ -513,7 +513,7 @@ DOMAIN-SUFFIX,golang.org
 # ---(Apple)---
 DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
 DOMAIN-SUFFIX,smoot.apple.com // Spotlight
-DOMAIN,amp-api.podcasts.apple.com // Podcasts
+#DOMAIN,amp-api.podcasts.apple.com // Podcasts
 DOMAIN,beta.music.apple.com // Apple Music Web
 DOMAIN,books.itunes.apple.com // iBooks Store download
 DOMAIN,facetime.apple.com // FaceTime Links
@@ -527,9 +527,9 @@ DOMAIN,cp4.cloudflare.com
 DOMAIN,c.mi.com
 DOMAIN,new.c.mi.com
 # > Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
+#DOMAIN,apps.apple.com
+#DOMAIN,books.apple.com
+#DOMAIN,itunes.apple.com
 DOMAIN,tv.apple.com
 # > News
 DOMAIN,gateway.icloud.com
@@ -542,8 +542,8 @@ DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 # ------
 # > Microsoft
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN,copilot.microsoft.com
+#DOMAIN-SUFFIX,bing.com
+#DOMAIN-SUFFIX,linkedin.com
+#DOMAIN-SUFFIX,licdn.com
+#DOMAIN-SUFFIX,msn.com
+#DOMAIN,copilot.microsoft.com
